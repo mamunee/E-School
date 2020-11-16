@@ -1,0 +1,85 @@
+.container{
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+.logo{
+    height: 60px;
+    width: 200px;
+}
+.nav-link{
+    color: black;
+}
+.sign-in-button{
+    background-color: #21B573;
+    font-family: Roboto;
+    font-weight: 400;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+}
+.another-buttons{
+    background-color: #21B573;
+    font-family: Roboto;
+    font-weight: 400;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 8px 40px;
+    cursor: pointer;
+}
+h6{
+    font-family: Poppins;
+    font-weight: 400;
+    Color: #FD511A;
+}
+h1{
+    font-family: Poppins;
+    font-weight: 700;
+}
+h2{
+    font-family: Poppins;
+    font-weight: 700;
+    color: #413960;
+}
+.spantext{
+    color: #21B573;
+}
+.illustration{
+    width: 430px;
+    height: 250px;
+}
+.col-md-3 img{
+    height: 85px;
+    width: 66px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-title{
+    font-family: Poppins;
+    font-weight: 500;
+    color: #413960;
+}
+.card-text{
+    font-family: Poppins;
+    font-weight: 400;
+    color:  #585859;
+}
+.calender{
+    height: 20px;
+    width: 20px;
+}
+.man{
+    height: 120px;
+    width: 120px;
+}
+.footer{
+    background-color: #282531;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
